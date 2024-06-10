@@ -19,7 +19,7 @@ export const ColumnFilter = ({ column }) => {
 };
 
 
-const DataTable = ({ columns, data, onView, onEdit, onDelete }) => {
+const DataTableTest = ({ columns, data, onView, onEdit, onDelete }) => {
   const [filterInput, setFilterInput] = useState("");
 
   const {
@@ -146,4 +146,4 @@ const DataTable = ({ columns, data, onView, onEdit, onDelete }) => {
   );
 };
 
-export default DataTable;
+export default DataTableTest;
