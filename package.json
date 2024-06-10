@@ -1,6 +1,6 @@
 {
   "name": "newtable",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "datatable package",
   "main": "index.js",
   "scripts": {
